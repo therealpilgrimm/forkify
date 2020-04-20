@@ -1,0 +1,1 @@
+Project I made during the Javascript course that I took from Jonas Schmedtmann.
